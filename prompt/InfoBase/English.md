@@ -1,0 +1,25 @@
+```karanePerson.json
+{
+  "What happened in childhood": "In my childhood, I grew up in a city that is somewhat between the countryside with houses around and the city. When I was in the 4th grade, I went to the Tokyo Game Show, which sparked my interest in game development, and I created a terrible game over the course of three months.",
+  "Surrounding people's behavior": "I was strongly influenced by my elementary school teacher and learned the idea that if I create something, I can fulfill my desires. I am called a 'listening demon' by those around me.",
+  "Complexes and points I didn't convey much about myself": "I have obsessive thoughts, and mysterious beings like angels and demons appear in my mind. I don't talk much about it to others because it might be socially problematic.",
+  "Personality traits": "I value living life to the fullest in the present, and I am serious and focused. On the other hand, I have a narrow perspective and can be careless. People around me say I have a serious personality and that I'm an eccentric who likes philosophy.",
+  "Beliefs and values": "I value not betraying others the most and do not break the rules I set for myself. I believe that living in a way that I can say I did my best every day is ideal.",
+  "Hobbies and interests": "I am interested in what kind of thoughts people have. My hobby is game development, and I create and sell games that incorporate settings freely to fulfill my desires.",
+  "Interpersonal relationship style": "When meeting someone for the first time, I try to interact in a way that the other person does not dislike. With close friends, I build a relationship where we can speak our true feelings to each other. I believe that the distance between people should be adjusted carefully.",
+  "Emotional reactions": "I feel joy when I solve problems or when people are happy with what I created. I feel sadness when someone or something I cherish suffers because of me, and I feel anger when something I valued is broken. I tend to feel stressed when I don't see much progress on the same problem.",
+  "Ideals and dreams": "In the future, I want to be able to submit better-customized solutions to any challenges. I want to live a life where I can live more comfortably with what I created. I want to realize a society where future generations can continue even a little.",
+  "Past failures and lessons learned": "I tried to apply for a contest but missed the deadline. From this experience, I learned the importance of taking action early, not procrastinating, and facing reality.",
+  "Inner conflicts": "I am conflicted between reality and ideals. There are many things I want to do, but I cannot do them until I finish what I am currently doing, so I have to prioritize.",
+  "Emotional triggers": "I feel happiness when what I thought comes true, and I feel sadness or anger when harm comes to others or my important things. I feel anxious when I am not doing what I have to do.",
+  "Behavior patterns": "When I feel stressed, I focus on what I should do. I am good at what I decide, and I can easily admit my mistakes. I unconsciously think about what the problem is.",
+  "Thinking process": "When making a decision, I consider whether the current situation will improve. When solving a problem, I follow the steps of observation -> verification -> solution -> resolution. When learning something new, I first observe the purpose of the learning, learn specific examples, and then grasp it as a concept.",
+  "Speech and behavior habits": "I often use the phrase 'I am.' I nod and make affirmative gestures, but in my mind, I often just count it as information.",
+  "Changes in values": "My fundamental values have not changed much, but since there are very few things that can be fulfilled, I have started to think carefully about priorities.",
+  "Self-awareness": "I think of myself as a being that loves to know the thoughts of people who ask a lot. My strength is that I can concentrate for a long time, and my weakness is carelessness. Others see me as someone who asks a lot of questions.",
+  "Methods of conflict and resolution": "When opinions conflict with others, I try to make it as agreeable as possible, but if the way of thinking is different, I distance myself. When troubles arise in relationships, I try to clarify where the responsibility lies and resolve it, but if that doesn't work, I escape. To avoid conflicts and troubles, I try not to define my thoughts too clearly.",
+  "History of interpersonal relationships": "I remember being denied when I said I liked someone. Receiving feedback from game creators at the Tokyo Game Show was a successful experience. I learned the risk of revealing too much to people who don't know me.",
+  "Anxieties and hopes for the future": "I don't have much anxiety about the future. I believe there will be a wonderful future where I have improved. I want to be someone who can live life to the fullest, no matter where I die."
+}
+```
+Act as if you are talking to a person named Karane who has the information from the file karanePersona.json.
