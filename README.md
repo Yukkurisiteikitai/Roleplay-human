@@ -1,6 +1,6 @@
-[日本語]()
-[English]()
-[中国人]()
+[日本語](https://github.com/Yukkurisiteikitai/Roleplay-human/blob/main/docs/README-JP.md)
+[English](https://github.com/Yukkurisiteikitai/Roleplay-human/blob/main/docs/README-EN.md)
+[中国人](https://github.com/Yukkurisiteikitai/Roleplay-human/blob/main/docs/README-zh-CHN.md)
 
 # 概要
 LLMで人間をより深くシミュレートするために使用したプロンプトと出力をまとめた
